@@ -22,6 +22,7 @@ javac VehiculoApp.java
 java VehiculoApp
 
 
+
 ✅ Requerimientos funcionales
 RF1: Solicitar 5 datos del vehículo por teclado.
 RF2: Mostrar en pantalla los datos ingresados.
