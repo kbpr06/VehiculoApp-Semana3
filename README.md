@@ -5,6 +5,13 @@ Este repositorio contiene el programa **VehiculoApp** desarrollado en Java sin u
 
 El objetivo de la actividad es comprender el proceso completo de creación, compilación y ejecución de un programa en Java utilizando la línea de comandos, reforzando el ciclo *entrada → proceso → salida* y aplicando buenas prácticas de documentación en GitHub.
 
+## ⚙️ Instrucciones de compilación y ejecución
+Para compilar y ejecutar el programa desde la consola:
+
+```bash
+javac VehiculoApp.java
+java VehiculoApp
+
 El sistema solicita al usuario los siguientes datos de un vehículo:
 - Marca
 - Modelo
@@ -42,14 +49,6 @@ Subir código y capturas a GitHub
 Crear README.md con requisitos y evidencias
 Redactar historias de usuario
 Preparar informe en Word/PDF
-
-## ⚙️ Instrucciones de compilación y ejecución
-Para compilar y ejecutar el programa desde la consola:
-
-```bash
-javac VehiculoApp.java
-java VehiculoApp
-
 
 👨‍💻 Autor
 Nombre: Karla Pesce, Jaime Codoceo y Sergio Molina
