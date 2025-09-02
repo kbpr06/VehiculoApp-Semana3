@@ -11,7 +11,6 @@ Este repositorio contiene el programa en **Java** (sin uso de IDE) que solicita 
 
 El sistema recibe la información por teclado mediante la clase **Scanner** y luego la muestra en consola.
 
----
 
 ## ⚙️ Instrucciones de compilación y ejecución
 Para compilar y ejecutar el programa desde la consola:
