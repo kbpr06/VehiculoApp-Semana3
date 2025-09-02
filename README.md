@@ -14,15 +14,6 @@ El sistema solicita al usuario los siguientes datos de un vehículo:
 
 Una vez ingresados, los datos se muestran en consola.
 
-## ⚙️ Instrucciones de compilación y ejecución
-Para compilar y ejecutar el programa desde la consola:
-
-```bash
-javac VehiculoApp.java
-java VehiculoApp
-
-
-
 ✅ Requerimientos funcionales
 RF1: Solicitar 5 datos del vehículo por teclado.
 RF2: Mostrar en pantalla los datos ingresados.
@@ -52,7 +43,17 @@ Crear README.md con requisitos y evidencias
 Redactar historias de usuario
 Preparar informe en Word/PDF
 
+## ⚙️ Instrucciones de compilación y ejecución
+Para compilar y ejecutar el programa desde la consola:
+
+```bash
+javac VehiculoApp.java
+java VehiculoApp
+
+
 👨‍💻 Autor
 Nombre: Karla Pesce, Jaime Codoceo y Sergio Molina
 Asignatura: Taller de Aplicaciones Móviles
 Semana: 3
+
+
